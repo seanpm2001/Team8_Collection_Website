@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🕹🕹️🎱🎮🌐️ The official source repository for the website of the Team8Collection video game project, an source alternative and recreation of the games by Storm8/TeamLava (such as Restaurant Story, Bakery Story, City Story, etc.)
