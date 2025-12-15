@@ -1,0 +1,1 @@
+🕹🕹️🎱🎮🌐️ The official source repository for the website of the Team8Collection video game project, an source alternative and recreation of the games by Storm8/TeamLava (such as Restaurant Story, Bakery Story, City Story, etc.)
